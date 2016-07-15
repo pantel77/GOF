@@ -1,0 +1,42 @@
+﻿Сборка начата 6/7/2016 10:40:58 AM.
+     1>Проект "E:\Projects\C++\VS\_PATTERNS\_patterns_GoF_Creational\AbstractFactory\AbstractFactory\AbstractFactory.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Army.cpp Game.cpp GermanArcher.cpp GermanArmyFactory.cpp GermanHorseman.cpp GermanWarior.cpp IArcher.cpp IHorseman.cpp IWarior.cpp main.cpp RomanArcher.cpp RomanArmyFactory.cpp RomanHorseman.cpp RomanWarior.cpp
+         Army.cpp
+         Game.cpp
+         GermanArcher.cpp
+         GermanArmyFactory.cpp
+         GermanHorseman.cpp
+         GermanWarior.cpp
+         IArcher.cpp
+         IHorseman.cpp
+         IWarior.cpp
+         main.cpp
+         RomanArcher.cpp
+         RomanArmyFactory.cpp
+         RomanHorseman.cpp
+         RomanWarior.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Projects\C++\VS\_PATTERNS\_patterns_GoF_Creational\AbstractFactory\Release\AbstractFactory.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Projects\C++\VS\_PATTERNS\_patterns_GoF_Creational\AbstractFactory\Release\AbstractFactory.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Projects\C++\VS\_PATTERNS\_patterns_GoF_Creational\AbstractFactory\Release\AbstractFactory.lib" /MACHINE:X86 /SAFESEH Release\Army.obj
+         Release\Game.obj
+         Release\GermanArcher.obj
+         Release\GermanArmyFactory.obj
+         Release\GermanHorseman.obj
+         Release\GermanWarior.obj
+         Release\IArcher.obj
+         Release\IHorseman.obj
+         Release\IWarior.obj
+         Release\main.obj
+         Release\RomanArcher.obj
+         Release\RomanArmyFactory.obj
+         Release\RomanHorseman.obj
+         Release\RomanWarior.obj
+         Создание кода
+         All 254 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Создание кода завершено
+         AbstractFactory.vcxproj -> E:\Projects\C++\VS\_PATTERNS\_patterns_GoF_Creational\AbstractFactory\Release\AbstractFactory.exe
+     1>Сборка проекта "E:\Projects\C++\VS\_PATTERNS\_patterns_GoF_Creational\AbstractFactory\AbstractFactory\AbstractFactory.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.16
